@@ -46,7 +46,7 @@
 -
 
 ### Список источников:
-1. [Финансовый отчёт Яндекса за Q2 2023 года](https://yastatic.net/s3/ir-docs/events/2023/Supplementary_slides_2Q23_RUS.pdf)
+1. [Финансовый отчёт Яндекса за Q2'2023](https://yastatic.net/s3/ir-docs/events/2023/Supplementary_slides_2Q23_RUS.pdf)
 
 
 
