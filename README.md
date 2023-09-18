@@ -29,7 +29,7 @@
 ### Продуктовые метрики
 
 #### MAU - 40.2 млн пользователей [^1]
-#### DAU - ~6 млн пользователей
+#### DAU - 6 млн пользователей [^5]
 
 #### Средний размер харанилища пользователя по типам:
 | Хранимые данные   | Оценочный размер на пользователя       |
@@ -93,3 +93,4 @@ P.S.:
 [^2]: [Минимальный размер TCP-сегмента](https://superuser.com/questions/243008/whats-the-minimum-size-of-a-tcp-packet)
 [^3]: [Минимальный размер HTTP-запроса](https://stackoverflow.com/questions/25047905/http-request-minimum-size-in-bytes)
 [^4]: [Прирост количества пользователей Яндекс Go за год](https://tass.ru/ekonomika/17054865)
+[^5]: [Дневная аудитория Яндекс.Такси в 2020](https://investim.guru/obzory/skolko-polzovateley-polzuetsya-yandeks-taksi-v-den-statistika-i-aktualnye-dannye)
