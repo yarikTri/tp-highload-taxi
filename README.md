@@ -80,7 +80,6 @@ P.S.:
 Суммарный RPS по основным бизнес-запросам: ~= 103
 
 #### Сетевой трафик
-Оценим размер пустого HTTP-запроса: 40 Б минимальный TCP-сегмент[^2] + 26 Б минимальный HTTP-request[^3] + ~100 Б оверхед на заголовки и длину хоста = 166 Б
 
 **Пиковое потребление в течение суток (Гбит/с) по типам трафика:**
 | Тип трафика        | Пиковое потребление, Гбит/с       | Суммарный суточный трафик, Гбит/сутки  |
@@ -90,7 +89,5 @@ P.S.:
 
 ### Список источников:
 [^1]: [Финансовый отчёт Яндекса за Q2'2023](https://yastatic.net/s3/ir-docs/events/2023/Supplementary_slides_2Q23_RUS.pdf)
-[^2]: [Минимальный размер TCP-сегмента](https://superuser.com/questions/243008/whats-the-minimum-size-of-a-tcp-packet)
-[^3]: [Минимальный размер HTTP-запроса](https://stackoverflow.com/questions/25047905/http-request-minimum-size-in-bytes)
 [^4]: [Прирост количества пользователей Яндекс Go за год](https://tass.ru/ekonomika/17054865)
 [^5]: [Дневная аудитория Яндекс.Такси в 2020](https://investim.guru/obzory/skolko-polzovateley-polzuetsya-yandeks-taksi-v-den-statistika-i-aktualnye-dannye)
