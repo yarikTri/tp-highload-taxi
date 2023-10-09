@@ -186,7 +186,7 @@ Nginx и k8s в связке обеспечат нам высокий урове
 Так при проектировании высоконагруженной схемы данных необходимо обеспечить высокую денормализацию, т.к. при партиционировании будет сложно обеспечить join'ы между партициями.
 
 Денормализованная логическая схема базы данных:
-![logic_scheme](https://github.com/yarikTri/tp-highload-taxi/assets/91901091/dd4d603c-51e3-49ad-badb-06532dec4de4)
+<img width="1179" alt="image" src="https://github.com/yarikTri/tp-highload-taxi/assets/91901091/4a4a21af-4d7e-43fd-8538-cc9cac2432c2">
 
 ### Список источников:
 [^1]: [Финансовый отчёт Яндекса за Q2'2023](https://yastatic.net/s3/ir-docs/events/2023/Supplementary_slides_2Q23_RUS.pdf)
