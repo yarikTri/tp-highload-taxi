@@ -181,6 +181,7 @@ Nginx и k8s в связке обеспечат нам высокий урове
 
 ## Часть 5. Логическая схема базы данных <a name="5"></a>
 
+<img width="1005" alt="image" src="https://github.com/yarikTri/tp-highload-taxi/assets/91901091/c3912830-1713-41b7-819f-4534aff7c632">
 
 
 ## Часть 6. Физическая схема базы данных <a name="6"></a>
