@@ -325,6 +325,8 @@ Nginx и k8s в связке обеспечат нам высокий урове
 
 ## Часть 10. Схема проекта <a name="10"></a>
 
+![Higload_light_1 drawio](https://github.com/yarikTri/tp-highload-taxi/assets/91901091/af52fc37-e905-4770-8c13-e362f2dcdb81)
+
 
 ## Часть 11. Расчёт ресурсов <a name="11"></a>
 
