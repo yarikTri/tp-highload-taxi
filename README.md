@@ -340,7 +340,7 @@ Nginx и k8s в связке обеспечат нам высокий урове
 
 ## Часть 10. Схема проекта <a name="10"></a>
 
-![HL_10_7 drawio](https://github.com/yarikTri/tp-highload-taxi/assets/91901091/ebea3c76-fdc0-4278-863a-d69c3622eeaa)
+![HL_taxi_scheme drawio](https://github.com/yarikTri/tp-highload-taxi/assets/91901091/7634a594-b468-4fc2-834f-5b86b5ebf593)
 
 
 ## Часть 11. Расчёт ресурсов <a name="11"></a>
